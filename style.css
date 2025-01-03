@@ -136,4 +136,8 @@ body {
     .home-button:hover {
       background-color: #555;
       outline: 2px solid white;
-    }
+    }.reset-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
